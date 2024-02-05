@@ -1,0 +1,2 @@
+similarity:https://spotintelligence.com/2022/12/19/text-similarity-python/#Different_text_similarity_algorithms
+gfg=https://www.geeksforgeeks.org/how-to-calculate-jaccard-similarity-in-python/
